@@ -7,7 +7,6 @@
 This repository serves as an overview of the HIT Symphony full-stack project. To dive into the codebases, please visit the specific repositories below.
 
 ### 📌 Quick Links
-* 🌐 **Live Demo:** [View Live Application](http://159.223.49.56:5173/)
 * 🎨 **UI/UX Design:** [Figma Workspace](https://www.figma.com/design/vI7ilYugZQZ8GUxwJtpq12/HIT---Symphony---Design?node-id=27-26&t=viIK8WCRXO19vGm2-0)
 * 💻 **Frontend Source Code:** [HIT-SYMPHONY/frontend_symphony_app](https://github.com/HIT-SYMPHONY/fontend_symphony_app/tree/develop)
 * ⚙️ **Backend Source Code:** [HIT-SYMPHONY/Backend-Symphony](https://github.com/HIT-SYMPHONY/Backend-Symphony/tree/develop)
@@ -56,25 +55,3 @@ The platform is separated into a React frontend client and a Spring Boot backend
 * **Code Quality:** SonarQube
 
 ---
-
-## 📸 System Preview
-
-*(Note: Replace these placeholder links with actual screenshots of your running app)*
-
-| Class Dashboard | Homework Submission |
-| :---: | :---: |
-| <img src="https://placehold.co/600x400/png?text=Add+Screenshot+Here" width="400"/> | <img src="https://placehold.co/600x400/png?text=Add+Screenshot+Here" width="400"/> |
-| **Competition Leaderboard** | **Student Profile** |
-| <img src="https://placehold.co/600x400/png?text=Add+Screenshot+Here" width="400"/> | <img src="https://placehold.co/600x400/png?text=Add+Screenshot+Here" width="400"/> |
-
----
-
-## 🚀 Getting Started
-
-If you wish to run this project locally, you will need to clone and set up both repositories. 
-
-**For the Backend:**
-Requires JDK 17, Maven, and a local MySQL instance. See the [Backend README](https://github.com/HIT-SYMPHONY/Backend-Symphony/tree/develop) for `.env`/`application.properties` configuration details (Database credentials, JWT secrets, Cloudinary API keys).
-
-**For the Frontend:**
-Requires Node.js. See the [Frontend README](https://github.com/HIT-SYMPHONY/fontend_symphony_app/tree/develop) for dependency installation (`npm install`, `npm run dev`) and environment variables.
